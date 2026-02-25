@@ -7,14 +7,17 @@
 ---
 
 ### 👨‍💻 About Me
+
 * 🎓 Currently studying Computer Engineering at the **University of Tehran**.
 * 🧠 Deeply passionate about **Artificial Intelligence** and **Data Science**.
 * 💻 Proficient in a versatile tech stack including **C, C++, C#, Verilog**, and **Python**.
 * 🌐 Experienced in building interactive frontend web applications using **Blazor** (C#).
+* 📫 How to reach me: [Your Email or LinkedIn Link]
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -29,10 +32,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirh1500&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirh1500&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirh1500&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
