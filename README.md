@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-* 👦I am **Gay**.
+* 👦I am **AmirHossein**.
 * 🎓 Currently studying Computer Engineering at the **University of Tehran**.
 * 🧠 Deeply passionate about **Artificial Intelligence** and **Data Science**.
 * 💻 Proficient in a versatile tech stack including **C, C++, C#, Verilog**, and **Python**.
