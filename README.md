@@ -13,7 +13,7 @@
 * 🧠 Deeply passionate about **Artificial Intelligence** and **Data Science**.
 * 💻 Proficient in a versatile tech stack including **C, C++, C#, Verilog**, and **Python**.
 * 🌐 Experienced in building interactive frontend web applications using **Blazor** (C#).
-* 📫 How to reach me: [Your Email or LinkedIn Link]
+* 📫 How to reach me: [amirhosseinalikhani410@gmail.com]
 
 ---
 
@@ -26,17 +26,4 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=fpga&logoColor=white" alt="Verilog" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirh1500&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirh1500&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="320" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirh1500&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
