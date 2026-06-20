@@ -1,4 +1,21 @@
+<h1 align="center">Hi there, I'm AmirHossein 👋</h1>
 
+<p align="center">
+  <strong>Computer Engineering Student @ University of Tehran | AI & Data Science Enthusiast 🚀</strong>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 👦I am **AmirHossein**.
+* 🎓 Currently studying Computer Engineering at the **University of Tehran**.
+* 🧠 Deeply passionate about **Artificial Intelligence** and **Data Science**.
+* 💻 Proficient in a versatile tech stack including **C, C++, C#, Verilog**, and **Python**.
+* 🌐 Experienced in building interactive frontend web applications using **Blazor** (C#).
+* 📫 How to reach me: [amirhosseinalikhani410@gmail.com]
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
